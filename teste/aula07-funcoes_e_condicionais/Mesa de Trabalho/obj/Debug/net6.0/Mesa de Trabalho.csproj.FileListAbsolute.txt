@@ -13,3 +13,18 @@ C:\Users\renatak\Documents\Digital House\aula07-funcoes_e_condicionais\teste\aul
 C:\Users\renatak\Documents\Digital House\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.pdb
 C:\Users\renatak\Documents\Digital House\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.genruntimeconfig.cache
 C:\Users\renatak\Documents\Digital House\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\ref\Mesa de Trabalho.dll
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\bin\Debug\net6.0\Mesa de Trabalho.exe
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\bin\Debug\net6.0\Mesa de Trabalho.deps.json
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\bin\Debug\net6.0\Mesa de Trabalho.runtimeconfig.json
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\bin\Debug\net6.0\Mesa de Trabalho.dll
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\bin\Debug\net6.0\Mesa de Trabalho.pdb
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.csproj.AssemblyReference.cache
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.AssemblyInfoInputs.cache
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.AssemblyInfo.cs
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.dll
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\refint\Mesa de Trabalho.dll
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.pdb
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\Mesa de Trabalho.genruntimeconfig.cache
+C:\Users\iasmimv\Documents\PROJETOS\Modulo 3 Visual Studio\Atividade aula 07\aula07-funcoes_e_condicionais\teste\aula07-funcoes_e_condicionais\Mesa de Trabalho\obj\Debug\net6.0\ref\Mesa de Trabalho.dll
