@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mairao\\Desktop\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj": {}
+    "C:\\Users\\renatak\\Documents\\Digital House\\aula07-funcoes_e_condicionais\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mairao\\Desktop\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj": {
+    "C:\\Users\\renatak\\Documents\\Digital House\\aula07-funcoes_e_condicionais\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mairao\\Desktop\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj",
+        "projectUniqueName": "C:\\Users\\renatak\\Documents\\Digital House\\aula07-funcoes_e_condicionais\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj",
         "projectName": "Mesa de Trabalho",
-        "projectPath": "C:\\Users\\mairao\\Desktop\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj",
-        "packagesPath": "C:\\Users\\mairao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mairao\\Desktop\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\obj\\",
+        "projectPath": "C:\\Users\\renatak\\Documents\\Digital House\\aula07-funcoes_e_condicionais\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\Mesa de Trabalho.csproj",
+        "packagesPath": "C:\\Users\\renatak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renatak\\Documents\\Digital House\\aula07-funcoes_e_condicionais\\teste\\aula07-funcoes_e_condicionais\\Mesa de Trabalho\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mairao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\renatak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
